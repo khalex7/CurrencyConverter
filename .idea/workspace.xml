@@ -5,46 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0696625-034c-4fc9-88bc-b2d92a7a3851" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_37.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_9_0_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_acl_5_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_5_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/config/MvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/config/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/controller/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/controller/RegistrationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/controller/currencyparser/SAXReadData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/controller/currencyparser/Valute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/repository/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/admin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/convert.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/registration.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CurrencyConverter1/.idea/CurrencyConverter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyConverter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/Controller/CurrencyConverterController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/database/initDB.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/database/initDB.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/database/populateDB.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/database/populateDB.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/greeting.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/khalex7/currencyconverter/Controller/CurrencyConverterController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaRushTasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaRushTasks/2.JavaCore/src/com/javarush/task/task15/task1503/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/2.JavaCore/src/com/javarush/task/task15/task1503/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaRushTasks/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/JavaRushPlugin.properties" afterDir="false" />
@@ -96,7 +56,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -134,6 +94,13 @@
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.39310345" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -248,14 +215,14 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="314" y="27" width="1046" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1294.741@72.27.1294.741" timestamp="1596693656131" />
-    <state x="527" y="105" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1596654772224">
+    <state x="527" y="105" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1596713151117">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="527" y="105" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1596654772224" />
-    <state x="319" y="67" width="789" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1596386654556">
+    <state x="527" y="105" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1596713151117" />
+    <state x="319" y="67" width="789" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1596712174429">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="319" y="67" width="789" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/72.27.1294.741@72.27.1294.741" timestamp="1596386654556" />
+    <state x="319" y="67" width="789" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/72.27.1294.741@72.27.1294.741" timestamp="1596712174429" />
     <state x="545" y="88" width="573" height="645" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1596626927468">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
@@ -272,38 +239,38 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="258" y="27" width="912" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1596575063496" />
-    <state width="853" height="294" key="GridCell.Tab.0.bottom" timestamp="1596700828509">
+    <state width="853" height="294" key="GridCell.Tab.0.bottom" timestamp="1596712924442">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="853" height="294" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1596700828509" />
-    <state width="853" height="294" key="GridCell.Tab.0.center" timestamp="1596700828508">
+    <state width="853" height="294" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1596712924442" />
+    <state width="853" height="294" key="GridCell.Tab.0.center" timestamp="1596712924441">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="853" height="294" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1596700828508" />
-    <state width="853" height="294" key="GridCell.Tab.0.left" timestamp="1596700828507">
+    <state width="853" height="294" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1596712924441" />
+    <state width="853" height="294" key="GridCell.Tab.0.left" timestamp="1596712924439">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="853" height="294" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1596700828507" />
-    <state width="853" height="294" key="GridCell.Tab.0.right" timestamp="1596700828509">
+    <state width="853" height="294" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1596712924439" />
+    <state width="853" height="294" key="GridCell.Tab.0.right" timestamp="1596712924441">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="853" height="294" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1596700828509" />
-    <state width="853" height="294" key="GridCell.Tab.1.bottom" timestamp="1596700828511">
+    <state width="853" height="294" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1596712924441" />
+    <state width="853" height="294" key="GridCell.Tab.1.bottom" timestamp="1596712924445">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="853" height="294" key="GridCell.Tab.1.bottom/72.27.1294.741@72.27.1294.741" timestamp="1596700828511" />
-    <state width="853" height="294" key="GridCell.Tab.1.center" timestamp="1596700828510">
+    <state width="853" height="294" key="GridCell.Tab.1.bottom/72.27.1294.741@72.27.1294.741" timestamp="1596712924445" />
+    <state width="853" height="294" key="GridCell.Tab.1.center" timestamp="1596712924443">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="853" height="294" key="GridCell.Tab.1.center/72.27.1294.741@72.27.1294.741" timestamp="1596700828510" />
-    <state width="853" height="294" key="GridCell.Tab.1.left" timestamp="1596700828510">
+    <state width="853" height="294" key="GridCell.Tab.1.center/72.27.1294.741@72.27.1294.741" timestamp="1596712924443" />
+    <state width="853" height="294" key="GridCell.Tab.1.left" timestamp="1596712924443">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="853" height="294" key="GridCell.Tab.1.left/72.27.1294.741@72.27.1294.741" timestamp="1596700828510" />
-    <state width="853" height="294" key="GridCell.Tab.1.right" timestamp="1596700828510">
+    <state width="853" height="294" key="GridCell.Tab.1.left/72.27.1294.741@72.27.1294.741" timestamp="1596712924443" />
+    <state width="853" height="294" key="GridCell.Tab.1.right" timestamp="1596712924444">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="853" height="294" key="GridCell.Tab.1.right/72.27.1294.741@72.27.1294.741" timestamp="1596700828510" />
+    <state width="853" height="294" key="GridCell.Tab.1.right/72.27.1294.741@72.27.1294.741" timestamp="1596712924444" />
     <state x="252" y="55" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1596666940373">
       <screen x="72" y="27" width="1294" height="741" />
     </state>

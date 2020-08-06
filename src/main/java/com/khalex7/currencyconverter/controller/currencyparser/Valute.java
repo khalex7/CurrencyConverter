@@ -1,7 +1,6 @@
 package com.khalex7.currencyconverter.controller.currencyparser;
 
 public class Valute {
-    private String id;
     private Long numCode;
     private String charCode;
     private Long nominal;
