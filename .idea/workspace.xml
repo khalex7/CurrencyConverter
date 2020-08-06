@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0696625-034c-4fc9-88bc-b2d92a7a3851" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_9_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_acl_5_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/config/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/controller/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/controller/currencyparser/SAXReadData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/controller/currencyparser/Valute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/admin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/convert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/registration.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CurrencyConverter1/.idea/CurrencyConverter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CurrencyConverter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyConverter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/Controller/CurrencyConverterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/database/initDB.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/database/initDB.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/database/populateDB.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/database/populateDB.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/greeting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/khalex7/currencyconverter/Controller/CurrencyConverterController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/2.JavaCore/src/com/javarush/task/task15/task1503/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/2.JavaCore/src/com/javarush/task/task15/task1503/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/JavaRushPlugin.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out.log.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task11/task1123/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task11/task1123/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task12/task1233/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task12/task1233/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task13/task1318/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task13/task1318/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task13/task1319/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task13/task1319/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task13/task1326/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task13/task1326/Solution$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task13/task1326/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task13/task1326/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1402/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1402/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1404/Solution$CatFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1404/Solution$CatFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1404/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1404/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1407/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1407/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1408/Solution$HenFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1408/Solution$HenFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1411/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1411/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1413/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1413/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1414/Solution$MovieFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1414/Solution$MovieFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1414/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1414/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1415/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1415/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1417/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1417/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1418/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1418/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1419/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1419/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1420/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task14/task1420/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1514/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1514/Solution$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1514/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1514/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1515/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1515/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1519/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1519/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1522/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1522/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1525/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1525/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1527/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1527/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1529/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1529/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1531/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/2.JavaCore/com/javarush/task/task15/task1531/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaRushTasks/out/production/8.Games/com/javarush/games/minesweeper/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRushTasks/out/production/8.Games/com/javarush/games/minesweeper/Условие.jrtc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fY5XeVcXU2tUT0zZ5w23mV0Hy7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39310345" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CurrencyConverterApplication">
+    <configuration name="SAXReadData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khalex7.currencyconverter.boots.controller.currencyparser.SAXReadData" />
+      <module name="CurrencyConverter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khalex7.currencyconverter.boots.controller.currencyparser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyConverterApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="CurrencyConverter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khalex7.currencyconverter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.khalex7.currencyconverter.CurrencyConverterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyConverterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="CurrencyConverter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.khalex7.currencyconverter.CurrencyConverterApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SAXReadData" />
+      <item itemvalue="Spring Boot.CurrencyConverterApplication" />
+      <item itemvalue="Spring Boot.CurrencyConverterApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CurrencyConverterApplication (1)" />
+        <item itemvalue="Application.SAXReadData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0696625-034c-4fc9-88bc-b2d92a7a3851" name="Default Changelist" comment="" />
+      <created>1596382229224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596382229224</updated>
+      <workItem from="1596382231842" duration="4103000" />
+      <workItem from="1596411877713" duration="608000" />
+      <workItem from="1596556005197" duration="18704000" />
+      <workItem from="1596654161068" duration="11887000" />
+      <workItem from="1596693504700" duration="2483000" />
+      <workItem from="1596700799494" duration="373000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add CurrencyConverer project">
+      <created>1596575064573</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596575064573</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add CurrencyConverer project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add CurrencyConverer project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="264" y="286" width="543" height="229" key="#Assign_Data_Sources" timestamp="1596668488222">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="264" y="286" width="543" height="229" key="#Assign_Data_Sources/72.27.1294.741@72.27.1294.741" timestamp="1596668488222" />
+    <state x="72" y="249" width="1284" height="304" key="#SQL_Dialects" timestamp="1596573895942">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="72" y="249" width="1284" height="304" key="#SQL_Dialects/72.27.1294.741@72.27.1294.741" timestamp="1596573895942" />
+    <state x="314" y="27" width="1046" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596693656131">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="314" y="27" width="1046" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1294.741@72.27.1294.741" timestamp="1596693656131" />
+    <state x="527" y="105" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1596654772224">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="527" y="105" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1596654772224" />
+    <state x="319" y="67" width="789" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1596386654556">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="319" y="67" width="789" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/72.27.1294.741@72.27.1294.741" timestamp="1596386654556" />
+    <state x="545" y="88" width="573" height="645" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1596626927468">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="545" y="88" width="573" height="645" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/72.27.1294.741@72.27.1294.741" timestamp="1596626927468" />
+    <state x="246" y="441" width="1049" height="158" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596692656567">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="246" y="441" width="1049" height="158" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/72.27.1294.741@72.27.1294.741" timestamp="1596692656566" />
+    <state x="384" y="265" width="670" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596669243989">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="384" y="265" width="670" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/72.27.1294.741@72.27.1294.741" timestamp="1596669243989" />
+    <state x="258" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1596575063496">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="258" y="27" width="912" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1596575063496" />
+    <state width="853" height="294" key="GridCell.Tab.0.bottom" timestamp="1596700828509">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="853" height="294" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1596700828509" />
+    <state width="853" height="294" key="GridCell.Tab.0.center" timestamp="1596700828508">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="853" height="294" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1596700828508" />
+    <state width="853" height="294" key="GridCell.Tab.0.left" timestamp="1596700828507">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="853" height="294" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1596700828507" />
+    <state width="853" height="294" key="GridCell.Tab.0.right" timestamp="1596700828509">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="853" height="294" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1596700828509" />
+    <state width="853" height="294" key="GridCell.Tab.1.bottom" timestamp="1596700828511">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="853" height="294" key="GridCell.Tab.1.bottom/72.27.1294.741@72.27.1294.741" timestamp="1596700828511" />
+    <state width="853" height="294" key="GridCell.Tab.1.center" timestamp="1596700828510">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="853" height="294" key="GridCell.Tab.1.center/72.27.1294.741@72.27.1294.741" timestamp="1596700828510" />
+    <state width="853" height="294" key="GridCell.Tab.1.left" timestamp="1596700828510">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="853" height="294" key="GridCell.Tab.1.left/72.27.1294.741@72.27.1294.741" timestamp="1596700828510" />
+    <state width="853" height="294" key="GridCell.Tab.1.right" timestamp="1596700828510">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="853" height="294" key="GridCell.Tab.1.right/72.27.1294.741@72.27.1294.741" timestamp="1596700828510" />
+    <state x="252" y="55" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1596666940373">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="252" y="55" width="924" height="691" key="Maven.ArtifactSearchDialog/72.27.1294.741@72.27.1294.741" timestamp="1596666940373" />
+    <state x="192" y="90" width="1035" height="629" key="MergeDialog" timestamp="1596575254983">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="192" y="90" width="1035" height="629" key="MergeDialog/72.27.1294.741@72.27.1294.741" timestamp="1596575254983" />
+    <state x="343" y="158" width="742" height="485" key="MultipleFileMergeDialog" timestamp="1596575270405">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="343" y="158" width="742" height="485" key="MultipleFileMergeDialog/72.27.1294.741@72.27.1294.741" timestamp="1596575270405" />
+    <state x="202" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1596386713788">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="202" y="27" width="1024" height="741" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1596386713788" />
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1596575146357">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1596575146357" />
+    <state x="108" y="114" width="1212" height="654" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596692232596">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="108" y="114" width="1212" height="654" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/72.27.1294.741@72.27.1294.741" timestamp="1596692232596" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/com/khalex7/currencyconverter/controller/RegistrationController.java</url>
+          <line>18</line>
+          <properties field="userService" class="com.khalex7.currencyconverter.boots.controller.RegistrationController" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanCreationException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CurrencyConverter$CurrencyConverterApplication__1_.ic" NAME="CurrencyConverterApplication (1) Coverage Results" MODIFIED="1596693603146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.khalex7.currencyconverter.*</FILTER>
+    </SUITE>
+  </component>
+</project>
